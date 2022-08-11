@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARGOS.Prueba.Algoritmos", "ARGOS.Prueba.Algoritmos\ARGOS.Prueba.Algoritmos.csproj", "{EB861224-3DD7-4A36-A423-C19C958AC52D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARGOS.Prueba.Algoritmos", "ARGOS.Prueba.Algoritmos\ARGOS.Prueba.Algoritmos.csproj", "{EB861224-3DD7-4A36-A423-C19C958AC52D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARGOS.Prueba.PruebaUnitaria", "ARGOS.Prueba.PruebaUnitaria\ARGOS.Prueba.PruebaUnitaria.csproj", "{AEB22491-00F7-4CBD-AD44-DD485AF2A0D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EB861224-3DD7-4A36-A423-C19C958AC52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB861224-3DD7-4A36-A423-C19C958AC52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB861224-3DD7-4A36-A423-C19C958AC52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB22491-00F7-4CBD-AD44-DD485AF2A0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB22491-00F7-4CBD-AD44-DD485AF2A0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB22491-00F7-4CBD-AD44-DD485AF2A0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB22491-00F7-4CBD-AD44-DD485AF2A0D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
